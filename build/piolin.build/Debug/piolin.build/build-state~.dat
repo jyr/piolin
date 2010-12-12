@@ -1,0 +1,310 @@
+Tpiolin
+v7
+r0
+t313835881.257823
+cCheck dependencies
+cProcessInfoPlistFile /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/piolin.app/Contents/Resources/main.py main.py
+cCpResource build/Debug/piolin.app/Contents/Resources/piolinAppDelegate.py piolinAppDelegate.py
+cCompileXIB /Users/jyr/Desarrollo/personal/piolin/English.lproj/MainMenu.xib
+cCpResource build/Debug/piolin.app/Contents/Resources/TwitterController.py TwitterController.py
+cProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-fcsswtndpoprjbflhxpbmwitqxlh/piolin_Prefix.pch.gch piolin_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-actgqkuparqerjcyjsvzurpinmci/piolin_Prefix.pch.gch piolin_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/piolin.build/Debug/piolin.build/Objects-normal/i386/main.o /Users/jyr/Desarrollo/personal/piolin/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/piolin.build/Debug/piolin.build/Objects-normal/ppc/main.o /Users/jyr/Desarrollo/personal/piolin/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/ppc/piolin normal ppc
+cLd /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/i386/piolin normal i386
+cCreateUniversalBinary /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/MacOS/piolin normal "i386 ppc"
+cTouch /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Python.framework/Headers/Python.h
+c000000004864C5EF000000000000106C
+t1214563823
+s4204
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+c000000004B760CE30000000000079BD4
+t1266027747
+s498644
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/System/Library/Frameworks/Python.framework/Python
+c000000004C2437DE00000000003E7770
+t1277442014
+s4093808
+
+N/Users/jyr/Desarrollo/personal/piolin/English.lproj/InfoPlist.strings
+c000000004D04892800000000000000CA
+t1292142888
+s202
+
+N/Users/jyr/Desarrollo/personal/piolin/English.lproj/MainMenu.xib
+c000000004D04898C0000000000028D5F
+t1292142988
+s167263
+
+N/Users/jyr/Desarrollo/personal/piolin/TwitterController.py
+c000000004D0489CB0000000000000125
+t1292143051
+s293
+
+N/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app
+t1292143081
+s102
+
+N/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Info.plist
+t1292143076
+s827
+
+N/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/MacOS/piolin
+t1292143081
+s42076
+
+N/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/PkgInfo
+t1292143076
+s8
+
+N/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292143076
+s202
+
+N/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292143076
+s29694
+
+N/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources/TwitterController.py
+t1292143076
+s293
+
+N/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources/main.py
+t1292143076
+s434
+
+N/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources/piolinAppDelegate.py
+t1292143076
+s326
+
+N/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/i386/main.o
+t1292143081
+s10784
+
+N/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/i386/piolin
+t1292143081
+s18020
+
+N/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/i386/piolin.LinkFileList
+c000000004D0489E30000000000000067
+t1292143075
+s103
+
+N/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/ppc/main.o
+t1292143080
+s11576
+
+N/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/ppc/piolin
+t1292143081
+s17500
+
+N/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/ppc/piolin.LinkFileList
+c000000004D0489E30000000000000066
+t1292143075
+s102
+
+N/Users/jyr/Desarrollo/personal/piolin/main.m
+c000000004D0489280000000000000715
+t1292142888
+s1813
+i<Python/Python.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/jyr/Desarrollo/personal/piolin/main.py
+c000000004D0489DD00000000000001B2
+t1292143069
+s434
+
+N/Users/jyr/Desarrollo/personal/piolin/piolinAppDelegate.py
+c000000004D0489280000000000000146
+t1292142888
+s326
+
+N/Users/jyr/Desarrollo/personal/piolin/piolin_Prefix.pch
+c000000004D048928000000000000008F
+t1292142888
+s143
+i<Cocoa/Cocoa.h>
+
+N/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-actgqkuparqerjcyjsvzurpinmci/piolin_Prefix.pch.gch
+t1292143080
+s50315472
+
+N/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-fcsswtndpoprjbflhxpbmwitqxlh/piolin_Prefix.pch.gch
+t1292143080
+s54002064
+
+NInfo.plist
+c000000004D0489280000000000000394
+t1292142888
+s916
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313835875#313835876#0(0"0(0#1#0"8619369792#0"0#
+
+CCompileC build/piolin.build/Debug/piolin.build/Objects-normal/i386/main.o /Users/jyr/Desarrollo/personal/piolin/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313835880.768194
+e313835881.046082
+r1
+xCompileC
+xbuild/piolin.build/Debug/piolin.build/Objects-normal/i386/main.o
+x/Users/jyr/Desarrollo/personal/piolin/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/jyr/Desarrollo/personal/piolin/main.m313835880#313835881#0(0"0(0#0#44"/Users/jyr/Desarrollo/personal/piolin/main.m8619018944#1050"    cd /Users/jyr/Desarrollo/personal/piolin    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/piolin.hmap -F/Users/jyr/Desarrollo/personal/piolin/build/Debug -I/Users/jyr/Desarrollo/personal/piolin/build/Debug/include -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/DerivedSources/i386 -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/DerivedSources -include /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-fcsswtndpoprjbflhxpbmwitqxlh/piolin_Prefix.pch -c /Users/jyr/Desarrollo/personal/piolin/main.m -o /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/i386/main.o0#
+
+CCompileC build/piolin.build/Debug/piolin.build/Objects-normal/ppc/main.o /Users/jyr/Desarrollo/personal/piolin/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s313835880.769381
+e313835881.043602
+r1
+xCompileC
+xbuild/piolin.build/Debug/piolin.build/Objects-normal/ppc/main.o
+x/Users/jyr/Desarrollo/personal/piolin/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/jyr/Desarrollo/personal/piolin/main.m313835880#313835881#0(0"0(0#0#44"/Users/jyr/Desarrollo/personal/piolin/main.m8615406912#1057"    cd /Users/jyr/Desarrollo/personal/piolin    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/piolin.hmap -F/Users/jyr/Desarrollo/personal/piolin/build/Debug -I/Users/jyr/Desarrollo/personal/piolin/build/Debug/include -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/DerivedSources/ppc -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/DerivedSources -include /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-actgqkuparqerjcyjsvzurpinmci/piolin_Prefix.pch -c /Users/jyr/Desarrollo/personal/piolin/main.m -o /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/ppc/main.o0#
+
+CCompileXIB /Users/jyr/Desarrollo/personal/piolin/English.lproj/MainMenu.xib
+s313835876.007878
+e313835876.390247
+r1
+xCompileXIB
+x/Users/jyr/Desarrollo/personal/piolin/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib313835876#313835876#0(0"0(0#0#64"/Users/jyr/Desarrollo/personal/piolin/English.lproj/MainMenu.xib8599042304#360"    cd /Users/jyr/Desarrollo/personal/piolin    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources/English.lproj/MainMenu.nib /Users/jyr/Desarrollo/personal/piolin/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s313835876.003257
+e313835876.179121
+r1
+xCopyStringsFile
+x/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings313835876#313835876#0(0"0(0#0#69"/Users/jyr/Desarrollo/personal/piolin/English.lproj/InfoPlist.strings8613440224#363"    cd /Users/jyr/Desarrollo/personal/piolin    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/piolin.app/Contents/Resources/TwitterController.py TwitterController.py
+s313835876.179212
+e313835876.185571
+r1
+xCpResource
+xbuild/Debug/piolin.app/Contents/Resources/TwitterController.py
+xTwitterController.py
+lSLF07#2@25"Copy TwitterController.py313835876#313835876#0(0"0(0#0#58"/Users/jyr/Desarrollo/personal/piolin/TwitterController.py30399774233591924#332"    cd /Users/jyr/Desarrollo/personal/piolin    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jyr/Desarrollo/personal/piolin/TwitterController.py /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources0#
+
+CCpResource build/Debug/piolin.app/Contents/Resources/main.py main.py
+s313835876.004258
+e313835876.013618
+r1
+xCpResource
+xbuild/Debug/piolin.app/Contents/Resources/main.py
+xmain.py
+lSLF07#2@12"Copy main.py313835876#313835876#0(0"0(0#0#45"/Users/jyr/Desarrollo/personal/piolin/main.py8612764416#319"    cd /Users/jyr/Desarrollo/personal/piolin    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jyr/Desarrollo/personal/piolin/main.py /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources0#
+
+CCpResource build/Debug/piolin.app/Contents/Resources/piolinAppDelegate.py piolinAppDelegate.py
+s313835876.005992
+e313835876.015557
+r1
+xCpResource
+xbuild/Debug/piolin.app/Contents/Resources/piolinAppDelegate.py
+xpiolinAppDelegate.py
+lSLF07#2@25"Copy piolinAppDelegate.py313835876#313835876#0(0"0(0#0#58"/Users/jyr/Desarrollo/personal/piolin/piolinAppDelegate.py8612513728#332"    cd /Users/jyr/Desarrollo/personal/piolin    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jyr/Desarrollo/personal/piolin/piolinAppDelegate.py /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/MacOS/piolin normal "i386 ppc"
+s313835881.248179
+e313835881.251254
+r1
+xCreateUniversalBinary
+x/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/MacOS/piolin
+xnormal
+xi386 ppc
+lSLF07#2@84"CreateUniversalBinary build/Debug/piolin.app/Contents/MacOS/piolin normal "i386 ppc"313835881#313835881#0(0"0(0#0#46"/Users/jyr/Desarrollo/personal/piolin/i386 ppc8619282464#367"    cd /Users/jyr/Desarrollo/personal/piolin    /usr/bin/lipo -create /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/i386/piolin /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/ppc/piolin -output /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/MacOS/piolin0#
+
+CLd /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/i386/piolin normal i386
+s313835881.046216
+e313835881.248109
+r1
+xLd
+x/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/i386/piolin
+xnormal
+xi386
+lSLF07#2@107"Link /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/i386/piolin313835881#313835881#0(0"0(0#0#0"8598820896#584"    cd /Users/jyr/Desarrollo/personal/piolin    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/jyr/Desarrollo/personal/piolin/build/Debug -F/Users/jyr/Desarrollo/personal/piolin/build/Debug -filelist /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/i386/piolin.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework Python -framework WebKit -o /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/i386/piolin0#
+
+CLd /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/ppc/piolin normal ppc
+s313835881.043697
+e313835881.247799
+r1
+xLd
+x/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/ppc/piolin
+xnormal
+xppc
+lSLF07#2@106"Link /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/ppc/piolin313835881#313835881#0(0"0(0#0#0"8612684800#581"    cd /Users/jyr/Desarrollo/personal/piolin    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/jyr/Desarrollo/personal/piolin/build/Debug -F/Users/jyr/Desarrollo/personal/piolin/build/Debug -filelist /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/ppc/piolin.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework Python -framework WebKit -o /Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/Objects-normal/ppc/piolin0#
+
+CProcessInfoPlistFile /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Info.plist Info.plist
+s313835875.997814
+e313835876.003161
+r1
+xProcessInfoPlistFile
+x/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist313835875#313835876#0(0"0(0#0#48"/Users/jyr/Desarrollo/personal/piolin/Info.plist8615069152#297"    cd /Users/jyr/Desarrollo/personal/piolin    builtin-infoPlistUtility Info.plist -genpkginfo /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-actgqkuparqerjcyjsvzurpinmci/piolin_Prefix.pch.gch piolin_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s313835876.391527
+e313835880.673346
+r1
+xProcessPCH
+x/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-actgqkuparqerjcyjsvzurpinmci/piolin_Prefix.pch.gch
+xpiolin_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile piolin_Prefix.pch313835876#313835880#0(0"0(0#0#55"/Users/jyr/Desarrollo/personal/piolin/piolin_Prefix.pch8619371648#968"    cd /Users/jyr/Desarrollo/personal/piolin    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/piolin.hmap -F/Users/jyr/Desarrollo/personal/piolin/build/Debug -I/Users/jyr/Desarrollo/personal/piolin/build/Debug/include -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/DerivedSources/ppc -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/DerivedSources -c /Users/jyr/Desarrollo/personal/piolin/piolin_Prefix.pch -o /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-actgqkuparqerjcyjsvzurpinmci/piolin_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-fcsswtndpoprjbflhxpbmwitqxlh/piolin_Prefix.pch.gch piolin_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313835876.390356
+e313835880.768076
+r1
+xProcessPCH
+x/var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-fcsswtndpoprjbflhxpbmwitqxlh/piolin_Prefix.pch.gch
+xpiolin_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile piolin_Prefix.pch313835876#313835880#0(0"0(0#0#55"/Users/jyr/Desarrollo/personal/piolin/piolin_Prefix.pch8626897984#960"    cd /Users/jyr/Desarrollo/personal/piolin    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/piolin.hmap -F/Users/jyr/Desarrollo/personal/piolin/build/Debug -I/Users/jyr/Desarrollo/personal/piolin/build/Debug/include -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/DerivedSources/i386 -I/Users/jyr/Desarrollo/personal/piolin/build/piolin.build/Debug/piolin.build/DerivedSources -c /Users/jyr/Desarrollo/personal/piolin/piolin_Prefix.pch -o /var/folders/vV/vVYXG0EWGXKFSdVsptlB+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/piolin_Prefix-fcsswtndpoprjbflhxpbmwitqxlh/piolin_Prefix.pch.gch0#
+
+CTouch /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app
+s313835881.251340
+e313835881.257777
+r1
+xTouch
+x/Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app
+lSLF07#2@66"Touch /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app313835881#313835881#0(0"0(0#0#0"8619054272#128"    cd /Users/jyr/Desarrollo/personal/piolin    /usr/bin/touch -c /Users/jyr/Desarrollo/personal/piolin/build/Debug/piolin.app0#
+
